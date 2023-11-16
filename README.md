@@ -1,6 +1,6 @@
-# "Qbit Notes"
+# Qbit Notes
 
-My dump of notes that I come back to re-learn
+My dump of technical notes
 
 ## Tags
 
