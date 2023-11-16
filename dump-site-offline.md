@@ -1,6 +1,6 @@
 ---
 date: 2023-11-16
-description: How to download site for offline use using wget
+tags: archiving, cli
 ---
 
 # Dump site for offline use
