@@ -4,7 +4,7 @@ My dump of technical notes
 
 ## Tags
 
-- [archiving,](./tags/archiving,)
+- [archiving](./tags/archiving)
 - [cli](./tags/cli)
 - [thoughts](./tags/thoughts)
 

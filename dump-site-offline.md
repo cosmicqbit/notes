@@ -1,6 +1,6 @@
 ---
 date: 2023-11-16
-tags: archiving, cli
+tags: archiving cli
 ---
 
 # Dump site for offline use
